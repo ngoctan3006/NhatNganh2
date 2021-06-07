@@ -1,0 +1,24 @@
+trang chi tiết có những thông tin:
+- ảnh thẻ (có thể có nhiều ảnh)
+- tên thẻ, vd : BIDV abc card
+- rank: bạch kim, vàng, null
+- tên nhà cung cấp, vd : BIDV
+- category, vd : debit card
+- tư vấn, lời khuyên dành cho thẻ:
+	+ abc
+	+ xyz
+- phí thường niên : 60.000 VND
+- danh sách các tính năng
+	+ abc
+	+ xyz
+- giới hạn giao dịch:
+    + số lần rút / ngày : 20 lần 
+    + số tiền max rút đc / ngày : 70 triệu
+    + số tiền chuyển max / ngày : 100 triệu
+- phí dịch vụ: 
+	thường niên : 60.000 VND
+	phát hành lần đầu: ..
+	phí in hóa đơn
+	phí rút tiền tại ATM BIDV
+	phí rút tại ATM khác
+	
